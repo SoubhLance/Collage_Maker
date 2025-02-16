@@ -32,7 +32,8 @@ This Python script uses the Pillow library to create a customizable photo collag
 
 ## Example
  Here is an example of a generated collage:
- ![istockphoto-1068570108-612x612](https://github.com/user-attachments/assets/b56e1b61-b63d-466c-af7f-c11a976c9c34)
+ 
+   ![istockphoto-1068570108-612x612](https://github.com/user-attachments/assets/b56e1b61-b63d-466c-af7f-c11a976c9c34)
 
 
 ## Contributing
